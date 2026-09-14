@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/AI%20Automation-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="AI Automation" />
   <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows" />
-  <img src="https://img.shields.io/badge/Harvard%20University-111111?style=for-the-badge&logo=harvard&logoColor=A51C30" alt="Harvard University" />
+  <img src="https://img.shields.io/badge/Harvard%20University-111111?style=for-the-badge&logoColor=A51C30&label=Harvard%20University&message=Cybersecurity" alt="Harvard University — Cybersecurity" />
 </p>
 
 </div>
